@@ -1,0 +1,5 @@
+name: PackageBox
+author: HWABAEG
+main: PackageBox\PackageBox
+version: B1
+api: [4.0.0]
